@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//programme to check if the number is prime or not prime
 int main(){
     int num,n,i,j;
     cout<<"choose your range: ";
@@ -23,3 +24,4 @@ int main(){
     }
     return 0;
 }
+
